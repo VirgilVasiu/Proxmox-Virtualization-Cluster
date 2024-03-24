@@ -1,4 +1,6 @@
 # Proxmox-Virtualization-Cluster
+## ***Currently in the process of migrating data from documentation to github to present a clear finished image of the project***
+
 Server rack dedicated to hosting various services 
 The goal is to host several high-availability services with a robust backup system capable of enabling agile development. 
 
